@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Anthony</h1>
 <h3>A full-stack developer in making</h3>
 
-- 🌱 I’m currently learning: **Razor Pages in ASP.NET Core**
+- 🌱 I’m currently learning: **Angular, Apollo Client and Server, and GraphQl**
 - 💬 Ask me about: **Javascript** and **C#**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anthonymogotlane/">LinkedIn</a>
 - ⚡ Fun fact: **I am willing to learn.**
@@ -23,7 +23,7 @@
 </p>
 
  <p>
-   <a href="https://github.com/zilton7">
+   <a href="https://github.com/anthonymogotlane">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthonymogotlane&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymogotlane&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="anthonymogotlane" />
   </a>
