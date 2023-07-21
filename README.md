@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Anthony</h1>
-<h3>A full-stack developer in making</h3>
+<h3>Agile full-stack developer</h3>
 
-- 🌱 I’m currently learning: **Angular, Apollo Client and Server, and GraphQl**
+- 🌱 I’m currently learning: **NextJs**
 - 💬 Ask me about: **Javascript** and **C#**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anthonymogotlane/">LinkedIn</a>
 - ⚡ Fun fact: **I am willing to learn.**
