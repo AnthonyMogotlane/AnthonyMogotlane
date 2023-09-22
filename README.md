@@ -1,5 +1,5 @@
-<h1>Hi there 👋, I'm Anthony</h1>
-<h3>Agile full-stack developer</h3>
+# Hi there 👋, I'm Anthony
+### Agile full-stack developer
 
 - 🌱 I’m currently learning: **NextJs**
 - 💬 Ask me about: **Javascript** and **C#**
