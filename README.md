@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anthony
 ### Agile full-stack developer
 
-- 🌱 I’m currently learning: **NextJs**
+- 🌱 I’m currently learning: **AngularJs**
 - 💬 Ask me about: **Javascript** and **C#**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/anthonymogotlane/">LinkedIn</a>
 - ⚡ Fun fact: **I am willing to learn.**
