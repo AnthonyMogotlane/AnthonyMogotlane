@@ -68,21 +68,19 @@ Full Stack Developer with hands-on experience building web applications. I enjoy
 ---
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a>
+  <!-- <a>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonymogotlane&theme=merko&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
-  </a>
-  <a>
+  </a> -->
+  <!-- <a>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthonymogotlane&theme=merko&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&hide_title=true" />
-  </a>
+  </a> -->
 </div>
-
----
 
 <h3>Let’s connect 👋</h3>
 <p>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anthonymogotlane/)
-[![Website](https://custom-icon-badges.demolab.com/badge/Website-4D4577?logo=esri&logoColor=fff)](https://anthony-mogotlane.web.app)
+[![Website](https://custom-icon-badges.demolab.com/badge/Website-4D4577?logo=esri&logoColor=fff)](https://anthonymogotlane.vercel.app)
 
 <!-- To fix at a later stage -->
 <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthonymogotlane&show_icons=true&theme=dark&hide_border=true&background=0D1117&include_all_commits=true&count_private=true"/> -->
